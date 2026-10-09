@@ -1,5 +1,7 @@
 # Principle
 
+Q&A with GPT-6 Astra High, a real good teacher!
+
 ## Question
 
 浏览器工作原理，从浏览器启动加载进内存到用户输入地址，dns解析、请求HTML及资源、渲染HTML（流式解析、执行脚本、应用样式、绘制，重绘，重排等）、页面加载完毕（documentLoaded？）全流程讲解

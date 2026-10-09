@@ -1,5 +1,7 @@
 # Website Performance Optimization
 
+Q&A with GPT-6 Astra High, a real good teacher!
+
 ## Round 1
 
 ### Question
